@@ -1,6 +1,13 @@
 
 
+MSDS 601-01 Project
+
+1. Nithish Bolleddula
+2. Matt Sarmiento
+
+
 Predict the burned area from forest fires.
+
 
 
 
